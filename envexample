@@ -1,0 +1,6 @@
+URL_MONGO= url a mongo
+PORT = 8080
+PASS_EMAIL_API= ****
+EMAIL= *****
+SESSION_SECRET = *****
+PASS = *****
