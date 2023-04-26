@@ -33,7 +33,7 @@ const signup = () => {
 
             const mailOptions = {
                 from: process.env.EMAIL,
-                to: `barlocco@hotmail.es`,
+                to: `dubokovic7@gmail.com`,
                 subject: `Nuevo registro`,
                 html: `
                     <h3>Nuevo registro de usuario!</h3>
